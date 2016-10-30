@@ -39,7 +39,7 @@ O tema dessa vez foi variado, em que os interessados submeteram sua palestra no 
 
 
 ## Continuous Integration e Continuous Deployment - Jaime Neves
-
+<iframe src="https://drive.google.com/file/d/0B8obu33msXd_TEhucGF6d3BvYVE/preview" width="100%" height="480"></iframe>
 
 * [Github](https://github.com/dejaneves)
 * [Facebook](https://www.facebook.com/jaimebneves)
