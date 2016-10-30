@@ -3,7 +3,7 @@ layout:     post
 title:      3º FEMUG -AM 
 author:     FEMUG-AM
 tags: 		eventos 
-subtitle:  	Veja mais o que ocorreu no segundo Femug de manaus
+subtitle:  	Veja mais o que ocorreu no terceiro Femug de manaus
 category:  eventos
 ---
 <!-- Start Writing Below in Markdown -->
