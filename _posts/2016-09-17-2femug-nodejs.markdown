@@ -3,7 +3,7 @@ layout:     post
 title:      2º FEMUG -AM NODEJS 
 author:     FEMUG-AM
 tags: 		eventos nodejs
-subtitle:  	Veja mais o que ocorreu no segundo Femug de manaus
+subtitle:  	Veja mais o que ocorreu no segundo Femug de Manaus
 category  :  eventos
 header-img  : img/2femug.jpg
 ---
@@ -12,9 +12,9 @@ header-img  : img/2femug.jpg
 # 2º FEMUG-AM
 
 
-O segundo FEMUG-AM ocorreu na UFAM no dia 17 de setembro de 2016,na universidade federal do Amazonas(UFAM), no auditório do FT. 
+O segundo FEMUG-AM ocorreu no dia 17 de setembro de 2016, na Universidade Federal do Amazonas(UFAM), no auditório da FT (Faculdade de Tecnologia). 
 
-O tema dessa vez foi sobre Nodejs,explicando um pouco sobre o pode do javascript.  
+O tema dessa vez foi sobre Nodejs, explicando um pouco sobre o poder do javascript.  
 
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      1º FEMUG - AM 
 author:     FEMUG-AM
 tags: 	eventos angularjs
-subtitle:  	Veja mais o que ocorreu no primeiro Femug de manaus
+subtitle:  	Veja mais o que ocorreu no primeiro Femug de Manaus
 category:  eventos
 ---
 <!-- Start Writing Below in Markdown -->
@@ -11,7 +11,7 @@ category:  eventos
 # 1º FEMUG-AM
 
 
-Depois de quase um ano, o grupo de desenvolvedores web de manaus conseguiu realizar seu primeiro evento que ocorreu no dia 13 de agosto de 2016 às 14 horas na Fermento em manaus.
+Depois de quase um ano, o grupo de desenvolvedores web de Manaus conseguiu realizar seu primeiro evento, que ocorreu no dia 13 de agosto de 2016 às 14 horas na Fermen.to em Manaus.
 
 O Meet-up não visa fins lucrativos e busca juntar pessoas da área e simpatizantes.
 
@@ -36,7 +36,7 @@ O tema sempre girará em torno das necessidades dos desenvolvedores da região, 
 
 
 A ideia da mesa redonda foi conversar com profissionais da área para debater sobre a tecnologia tendo em vista sua experiência com a mesma.
-Os membros fora:
+Os membros foram:
 Richard Lopes (AXM Consultoria)
 Eduardo Vieira(PMM-SEMAD)
 Ricardo Erikson(Trit Tecnologia)
@@ -55,7 +55,7 @@ A performace não foi o principal problema, e sim implementar as funcionalidades
 Sua curva de aprendizado é muito rápida, em quatro meses me sinto bem a vontade com o Angular — Erika Silva, desenvolvedora na Interactive Mobile
 
 
-## Links Referente ao Evento
+## Links Referentes ao Evento
 
 [https://angularjs.org/](https://angularjs.org/)
 

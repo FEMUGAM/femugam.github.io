@@ -3,7 +3,7 @@ layout:     post
 title:      3º FEMUG -AM 
 author:     FEMUG-AM
 tags: 		eventos 
-subtitle:  	Veja mais o que ocorreu no terceiro Femug de manaus
+subtitle:  	Veja mais o que ocorreu no terceiro Femug de Manaus
 category:  eventos
 ---
 <!-- Start Writing Below in Markdown -->
@@ -13,7 +13,7 @@ category:  eventos
 
 O terceiro FEMUG-AM ocorreu na Fucapi no dia 22 de outubro de 2016,
 
-O tema dessa vez foi sobre variado, todas as pessoas interessadas submeteram no github sua palestra para apresentar
+O tema dessa vez foi variado, em que os interessados submeteram sua palestra no github para apresentar.
 
 
 ## Stack de Desenvolvimento Front-end - Kirmayr Tomaz
