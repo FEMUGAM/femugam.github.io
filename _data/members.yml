@@ -1,0 +1,31 @@
+# Members
+
+- name: Isaac Guerreiro
+  role: Jornalista  / Desenvolvedor
+  img:  https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/10917371_794826427253403_4137292653577595880_n.jpg?efg=eyJpIjoidCJ9&oh=59091b7468737d623c8ba65ee64ae28f&oe=58919CA4 
+  github: isaacguerreir
+  bio: Começou a estudar programação a um ano e tem buscado conhecer as tecnologias e contribuir com a comunidade em Manaus.
+  visible: true
+   
+- name: Kirmayr Tomaz
+  role: Desenvolvedor / Pseudo Corredor
+  img: /img/membros/kirma.jpg
+  github: kirmayrtomaz
+  bio: Bacharel em Sistemas de Informação pela Universidade Federal do Amazonas. Cursou um Técnico em Informática pelo CETAM e se apaixonou pela área da computação. Durante a graduação teve oportunidade de contribuir com o PoP-AM e INDT. Passou pelas startups Neemu e Fermen.to como desenvolvedor frontend, e hoje se divide entre lecionar no CETAM, freelas e projetos open-source.
+  url: https://kirmayrtomaz.github.io 
+  visible: true
+  
+- name: Ingrid Mendes
+  role: Desenvolvedora
+  github :  IngridMendes
+  img : /img/membros/ingrid.jpg
+  bio: Finalista do curso de Sistemas de Informação da Universidade Federal do Amazonas.
+  visible: true
+ 
+- name: Jaime Neves
+  role: Desenvolvedor
+  img : /img/membros/jaime.jpg
+  github : https://github.com/dejaneves
+  bio: Olá, sou Jaime Neves, graduado em Análise e Desenvolvimento de Software pela Uninorte e me especializei em Engenharia de Software voltado para WEB. Atualmente trabalho como Front-End Engineer na empresa Apassos. Já organizei eventos como o Front End Manaus, palestrei em eventos de faculdade e realizei alguns encontros para falarmos de tecnologias que surgem no mundo WEB.
+  url: http://jaimeneves.com.br
+  visible: true

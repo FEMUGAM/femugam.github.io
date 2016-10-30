@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      3º FEMUG -AM 
+author:     FEMUG-AM
+tags: 		eventos 
+subtitle:  	Veja mais o que ocorreu no segundo Femug de manaus
+category:  eventos
+---
+<!-- Start Writing Below in Markdown -->
+
+# 2º FEMUG-AM
+
+
+O terceiro FEMUG-AM ocorreu na Fucapi no dia 22 de outubro de 2016,
+
+O tema dessa vez foi sobre variado, todas as pessoas interessadas submeteram no github sua palestra para apresentar
+
+
+## Stack de Desenvolvimento Front-end - Kirmayr Tomaz
+
+
+<iframe src="https://drive.google.com/file/d/0B8obu33msXd_bENCclpxQ0luTFk/preview" width="100%" height="480"></iframe>
+
+
+
+* [Github](https://github.com/kirmayrtomaz)
+* [Facebook](https://www.facebook.com/kirmayr.tomaz)
+* [twitter](twitter.com/kirmayrtomaz)
+
+
+
+
+## Quando escolher uma ferramenta híbrida (ionic) - Eduardo Vieira
+
+<iframe src="https://drive.google.com/file/d/0B8obu33msXd_UW5rSEFwUlBONUE/preview" width="100%" height="480"></iframe>
+
+* [Github](https://github.com/Eduardo-Vieira)
+* [Facebook](https://www.facebook.com/cedugvieira)
+
+
+## Continuous Integration e Continuous Deployment - Jaime Neves
+
+
+* [Github](https://github.com/dejaneves)
+* [Facebook](https://www.facebook.com/jaimebneves)
+
+
+
+
