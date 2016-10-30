@@ -4,7 +4,8 @@ title:      2º FEMUG -AM NODEJS
 author:     FEMUG-AM
 tags: 		eventos nodejs
 subtitle:  	Veja mais o que ocorreu no segundo Femug de manaus
-category:  eventos
+category  :  eventos
+header-img  : img/2femug.jpg
 ---
 <!-- Start Writing Below in Markdown -->
 
