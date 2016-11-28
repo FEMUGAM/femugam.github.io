@@ -12,7 +12,8 @@ header-img  : img/seminfo_capa.png
 # FEMUG-AM na SEMINFO
 
 
-Na semana de informática da ufam que ocorreu entre o dia 16 e 18 de novembro o FEMUGAM teve participação com palestra e minicurso
+Na Semana de Informática da Ufam, que ocorreu entre o dia 16 e 18 de novembro, o FEMUGAM participou do evento com palestra e minicurso sobre comunidade, tecnologia e novos projetos.
+
 
 # PALESTRA FEMUG-AM e Ajuda Manaus
 
