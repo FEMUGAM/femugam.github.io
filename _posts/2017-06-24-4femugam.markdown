@@ -1,0 +1,50 @@
+---
+layout:     post
+title:      4º FEMUG -AM 
+author:     FEMUG-AM
+tags: 		eventos 
+subtitle:  	Veja mais o que ocorreu no terceiro Femug de Manaus
+category:  	eventos
+---
+<!-- Start Writing Below in Markdown -->
+
+# 4º FEMUG-AM
+
+
+O quarto FEMUG-AM ocorreu no Linx + Neemu + Chaordic no dia 24 de Junho de 2017,
+
+
+Os temas foram 
+
+
+## Angular: Visão Geral da Arquitetura - Jaime Neves
+
+
+<script async class="speakerdeck-embed" data-id="97742701b6e94eaaa7b474855ea75f54" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+* [Github](https://github.com/dejaneves)
+* [Facebook](https://www.facebook.com/jaimebneves)
+
+
+
+
+
+## "Desenvolvimento rápido com Django: uma visão geral", com Felipe Carvalho, criador da empresa Jukx.
+
+
+
+* [Github](https://github.com/07carvalho)
+* [Facebook](https://www.facebook.com/#)
+
+
+## "SASS: possibilidades do e boas práticas", com Diego Lucena, desenvolvedor Front-End na empresa Fermento.
+
+
+<script async class="speakerdeck-embed" data-id="f40e07e838834bc0866580c7cf67c0ed" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+* [Github](https://github.com/Mozz4rt)
+* [Facebook](https://www.facebook.com/Mozz4rt)
+
+
+
+
